@@ -14,6 +14,7 @@ execute:
 ---
 
 ```{python}
+# praise the otter gods! 
 import pandas as pd
 from IPython.display import Markdown, display
 from PIL import Image
@@ -67,7 +68,8 @@ $$s = \sqrt{\frac{\sum_{i=1}^N (x_i - \overline{x})^2}{N-1} }$$
 
 Additionally, note that in @tbl-horse-sd we consider the sample standard deviation of the number of horses during the same time span as @fig-horse-pop.
 
-```{python}
+```{python} 
+# hip hip horrrayyy!! 
 #| label: fig-horse-largest-sd
 #| fig-cap: Horse populations for the province with the largest standard deviation
 #| fig-width: 6
